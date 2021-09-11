@@ -11,8 +11,7 @@
 
 -python manage.py migrate
 
-
--Запустить сервер - python manage.py runserver
+-python manage.py runserver (запуск сервера)
 
 
 'http://127.0.0.1:8000/admin/' -чтобы зайти в админ-панель после запуска сервера нужно перейти по адресу  (Имя пользователя - admin , Пароль - admin) 
